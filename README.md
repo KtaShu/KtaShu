@@ -1,5 +1,6 @@
 - 👋 Hi, My name is Denis Artamonov
-- 👀 I’m interested in Data Science/Computer Vision/Machine Learning
+- Worked as a project manager in industrial and civil construction/software development with over 10 years of experience.
+- 👀 I’m interested in Data Science/Computer Vision/Machine Learning/Civil and Industrial engineering
 - 🌱 I’m currently learning at Yandex.Practicum
 
 Data Science:
